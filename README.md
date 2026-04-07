@@ -17,9 +17,9 @@ I design and execute test cases, report bugs professionally, and validate APIs -
 
 **Tools:** Postman · JIRA · Git & GitHub · Selenium WebDriver (Python, learning) · Browser DevTools · Linux
 
-**Domain Knowledge:** Payment Gateways · Card Transactions · Digital Wallets · EFT Switching · PCI-DSS Basics
-
 **Methodologies:** Agile / Scrum · SDLC · STLC · Defect Lifecycle
+
+**Design Tools:** Adobe Photoshop · Adobe Illustrator
 
 ---
 
