@@ -7,7 +7,9 @@
 
 ## 🧪 What I Do
 
-I design and execute test cases, report bugs professionally, and validate APIs - with a focus on building quality habits that matter in real production environments. I'm especially interested in Fintech QA where the cost of a missed bug isn't just a bad user experience, it's real money and real trust.
+I design and execute test cases, report bugs with clarity and professionalism, and validate APIs with a strong focus on building quality practices that hold up in real production environments. My particular interest lies in Fintech QA, where the impact of a missed defect goes beyond user experience it can affect real money and user trust.
+
+My background in Adobe Photoshop and Illustrator has trained me to notice subtle inconsistencies such as misaligned elements, uneven spacing, and disrupted visual flows. This attention to detail now directly enhances my approach to UI testing and strengthens the precision of my bug reporting.
 
 ---
 
