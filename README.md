@@ -17,7 +17,7 @@ My background in Adobe Photoshop and Illustrator has trained me to notice subtle
 
 **Testing:** Manual Testing · Functional · Regression · Smoke · Exploratory · Negative · API Testing · UI Testing · Security Testing (Basic)
 
-**Tools:** Postman · JIRA · Git & GitHub · Selenium WebDriver (Python, learning) · Browser DevTools · Linux
+**Tools:** Postman · JIRA · Git & GitHub · Playwright with JavaScript · Browser DevTools · Linux
 
 **Methodologies:** Agile / Scrum · SDLC · STLC · Defect Lifecycle
 
